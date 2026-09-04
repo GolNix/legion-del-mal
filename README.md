@@ -9,7 +9,7 @@
 ![Release](https://img.shields.io/github/v/release/GolNix/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/GolNix/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/GolNix/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/GolNix/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/GolNix/legion-del-mal?cacheSeconds=60)
 
 
 
