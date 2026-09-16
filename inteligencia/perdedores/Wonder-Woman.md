@@ -49,15 +49,6 @@ No suele reaccionar con rabia ante las provocaciones. Cuando un enemigo intenta 
 Sin embargo, las situaciones en las que alguien utiliza a personas inocentes como herramientas provocan una respuesta mucho más contundente.
 
 ---
-
-### Metrópolis
-
-Diana no considera Metrópolis su territorio.
-
-La trata como una ciudad que debe proteger cuando existe una amenaza, independientemente de quién sea el héroe responsable habitual.
-
----
-
 ## Registro: Nexor
 
 **Incidente:** La Fortaleza de Neón
