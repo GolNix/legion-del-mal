@@ -99,5 +99,5 @@ _Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será
 ### grupo para aprender git y github
 
 
-
+# comprobando boqueo main o rama predeterminada
 
