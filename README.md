@@ -15,7 +15,16 @@
 
 # 🦹‍♂️ La Legión del Mal - Desde Repositorio Remoto y Local - otra modificación 
 
- y proximamente la liga de la luz
+ y proximamente la liga de la justicia y de la luz
+
+ 
+
+<p align="center">
+  <img src="img/log%20dor%20wonder.png" alt="Logo de Wonder Woman" width="200">
+</p>
+
+
+
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
