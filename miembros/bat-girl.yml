@@ -1,0 +1,36 @@
+# Info Batgirl
+
+identidad:
+  nombre: "Barbara Gordon"
+  alias: "Batgirl"
+  ciudad: "Gotham City"
+  primera_aparicion: "Batman #139 (1961)"
+
+poderes_y_habilidades:
+  - "Artes marciales excepcionales"
+  - "Hacker informática de nivel genio"
+  - "Memoria eidética"
+  - "Habilidad gimnástica"
+  - "Estrategia de combate"
+  - "Liderazgo natural"
+  - "Gran capacidad de supervivencia"
+
+aliados:
+  - "Batman"
+  - "James Gordon"
+  - "Black Canary"
+  - "Huntress"
+  - "Cassandra Cain"
+  - "Stephanie Brown"
+
+enemigos:
+  - "Joker"
+  - "Killer Moth"
+  - "James Gordon Jr."
+  - "Grotesque"
+
+fuentes:
+  - "DC — Batgirl: https://www.dc.com/characters/batgirl"
+  - "DC — Batgirl: Year One: https://www.dc.com/graphic-novels/batgirl-year-one-2003/batgirl-year-one-deluxe-edition"
+  - "DC — Batgirl's Last Laugh: https://www.dc.com/blog/2020/07/22/batgirls-last-laugh"
+  - "DC — Batgirls #1: https://www.dc.com/comics/batgirls-2021/batgirls-1"
