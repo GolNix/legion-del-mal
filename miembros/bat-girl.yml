@@ -1,12 +1,12 @@
 # Info Batgirl
 
-identidad:
+## identidad:
   nombre: "Barbara Gordon"
   alias: "Batgirl"
   ciudad: "Gotham City"
   primera_aparicion: "Batman #139 (1961)"
 
-poderes_y_habilidades:
+## poderes y habilidades:
   - "Artes marciales excepcionales"
   - "Hacker informática de nivel genio"
   - "Memoria eidética"
@@ -23,7 +23,7 @@ aliados:
   - "Cassandra Cain"
   - "Stephanie Brown"
 
-enemigos:
+## enemigos:
   - "Joker"
   - "Killer Moth"
   - "James Gordon Jr."
@@ -34,3 +34,28 @@ fuentes:
   - "DC — Batgirl: Year One: https://www.dc.com/graphic-novels/batgirl-year-one-2003/batgirl-year-one-deluxe-edition"
   - "DC — Batgirl's Last Laugh: https://www.dc.com/blog/2020/07/22/batgirls-last-laugh"
   - "DC — Batgirls #1: https://www.dc.com/comics/batgirls-2021/batgirls-1"
+
+
+## Traje y tecnología:
+
+  traje:
+    - Barbara Gordon creó su propio traje de Batgirl.
+    - El diseño original tenía un aspecto artesanal.
+    - El traje ha evolucionado a través de diferentes etapas.
+    - Durante la etapa de Burnside utilizó un traje azul y amarillo.
+    - Sus ojos suelen quedar visibles a través de la máscara.
+
+  tecnologia:
+    - Barbara Gordon es una hacker de nivel genio.
+    - Tiene grandes conocimientos informáticos y tecnológicos.
+    - Como Oracle, desarrolló una importante especialización en información y tecnología.
+    - Utilizó redes tecnológicas para recopilar información y ayudar a otros héroes.
+    - En Batgirls, su red de Oracle es comprometida por un hacker y Barbara comienza a reconstruirla.
+
+  fuentes:
+    - "DC — Batgirl"
+    - "DC — Why Are Batgirl's Eyes Visible, but Not Batman's?"
+    - "DC — Batgirl Vol. 1: The Batgirl of Burnside"
+    - "DC — Batgirls Vol. 1"
+
+    
