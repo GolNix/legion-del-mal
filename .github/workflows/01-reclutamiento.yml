@@ -1,16 +1,15 @@
-//rojo = se queja xq workflow necesita una estructura
 
-name : Reclutamiento de Agentes
+name: Reclutamiento de Agentes
 
-on : push
+on: push
 
-jobs :
-    reporte-de-reclutamiento :
-        runs-on : ubuntu-latest
-        
-        steps : 
-            -name : el agente se presenta // nombre del paso
-            run :  echo "Soy Wonder Woman, y la heroína de la Liga de la Justicia" // run = acción a hacer
+jobs:
+  reporte-de-reclutamiento:
+    runs-on: ubuntu-latest
+    steps:
+      - name: El agente se presenta
+        run: echo "Soy Wonder Woman, la heroína de la Liga de la Justicia"
 
-            
+
+
         
