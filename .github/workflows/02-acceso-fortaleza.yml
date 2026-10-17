@@ -13,7 +13,7 @@ jobs:
           echo "Agente $ {GITHUB_ACTOR} ha llegado a la fortaleza prohibida."
           echo ""
           echo "Buscar Archivos de la Legión"
-          ls-la
+          ls -la
           echo ""
           echo "☠️pero qué paso? no hay nada"
           
