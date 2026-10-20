@@ -1,0 +1,12 @@
+
+
+name: Reclutamiento superheroe
+
+on: push
+
+jobs:
+  reporte-de-reclutamiento:
+    runs-on: ubuntu-latest
+    steps:
+      - name: El superhéroe se presenta
+        run: echo "¡Hola! Soy la superhéroe de reclutamiento Wonder Woman."
