@@ -23,6 +23,23 @@ jobs:
          echo "Operación: ${{ github.sha }}"
          echo "Operación: ${{ github.sha }}"
          echo "Metadata : ${{ toJSON(github) }}"
-         
 
-            
+      - name: Capacidades de la superhéroe
+        run: |
+          echo "¡Capacidades de Wonder Woman!"
+          echo "Sistema operativo"
+          uname -a
+          echo "Habilidades técnicas"
+          node --version
+          git --version
+          python3 --version
+
+      - name: Reconocimiento del terreno
+        run: |
+         echo "¡Reconocimiento del terreno!"
+         ls /
+
+
+
+    
+    
