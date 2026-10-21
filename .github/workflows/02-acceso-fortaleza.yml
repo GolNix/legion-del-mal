@@ -17,5 +17,5 @@ jobs:
          echo ""
          echo "Buscar los archivos de la Legión del mal"
          ls -la
-         echo""
-         echo"🪹 pero no hay nada de archivos"
+         echo ""
+         echo "🪹 pero no hay nada de archivos"
