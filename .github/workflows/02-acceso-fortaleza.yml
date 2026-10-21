@@ -19,3 +19,20 @@ jobs:
          ls -la
          echo ""
          echo "🪹 pero no hay nada de archivos"
+
+      - name: Wonder Woman desbloquea la bóveda de la fortaleza
+        uses: actions/checkout@v3
+
+      - name: "ahora sí, vamos a ver los planes"
+        run: |
+         echo " Buscar los archivos de la Legión del mal"
+         echo ""
+         ls -la
+         echo " 🆗 Funciona "
+         echo ""
+         echo "Planes:"
+         ls planes/
+         echo "Villanos"
+         ls villanos/
+         echo "Inteligencia"
+         ls inteligencia/

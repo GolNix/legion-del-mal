@@ -2,7 +2,9 @@
 
 name: Reclutamiento superheroe
 
-on: push
+on: 
+    workflow_dispatch:
+        
 
 jobs:
   reporte-de-reclutamiento:
