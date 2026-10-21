@@ -1,0 +1,21 @@
+
+name: 🏯 Acceso a la fortaleza prohibida
+
+on: push
+
+jobs:
+  acceso-a-la-base:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: la superhéroe llega a la fortaleza
+       
+        run: |
+         echo "Superheroe ${{ github.actor }} llega a la fortaleza."
+         echo ""
+         echo "Nombre clave: ${{ github.actor }}"
+         echo ""
+         echo "Buscar los archivos de la Legión del mal"
+         ls -la
+         echo""
+         echo"🪹 pero no hay nada de archivos"
