@@ -14,10 +14,23 @@ on:
           - Brave
           - Maléfica
           - Mulán
+      Mensaje:
+        description: "Mensaje a transmitir para el consejo de la Legión del Mal"
+        required: true
+        default: "La misión fue un éxito"
+
+     Prioridad:
+        description: "Nivel de prioridad"
+        required: true
+        type: choice
+        options:
+            - 🟢 Normal
+            - 🔴 Crítica
+            - 🟡 Media
 
 jobs:
   transmitir-mensaje:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4s
